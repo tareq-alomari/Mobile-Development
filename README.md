@@ -53,7 +53,7 @@ Edit
   - تصميم الصفحة الرئيسية لعرض المنتجات (Home Page).  
   - إنشاء نموذج لعرض بيانات المنتج (Product Card).  
 
-<img width="1600" height="1153" alt="Image" src="https://github.com/tareq-alomari/Mobile-Development/issues/2#issue-3377347818" />
+<img width="1003" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3d9add7b-8e14-4567-8b42-dd39d8645dee" />
 - **الأسبوع 3** ⏳  
   - صفحة تفاصيل المنتج (Product Details).  
   - إضافة ميزة "إضافة إلى السلة".  
